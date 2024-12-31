@@ -1,1 +1,2 @@
-LLAMAR DIRECTAMENTE A "pyinstaller <hola.py>" o bien su main archivo
+# Heading 1
+LLAMAR DIRECTAMENTE A pyinstaller "tu_main_archivo.py"
