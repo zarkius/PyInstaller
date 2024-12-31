@@ -1,1 +1,1 @@
-LLAMAR DIRECTAMENTE A 'pyinstaller <"script.py">'
+LLAMAR DIRECTAMENTE A "pyinstaller <hola.py>" o bien su main archivo
