@@ -31,7 +31,7 @@
    '/home/v1/Escritorio/2025/PyInstaller/.venv/lib/python3.12/site-packages/PyInstaller/hooks/rthooks/pyi_rth_inspect.py',
    'PYSOURCE'),
   ('hola', '/home/v1/Escritorio/2025/PyInstaller/hola.py', 'PYSOURCE')],
- 'libpython3.12.so',
+ 'libpython3.12.so.1.0',
  True,
  False,
  False,
